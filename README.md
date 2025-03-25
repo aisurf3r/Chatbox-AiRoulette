@@ -66,4 +66,4 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aisurf3r/Chatbox-Roulette/)git
+   git clone https://github.com/aisurf3r/Chatbox-Roulette.git
