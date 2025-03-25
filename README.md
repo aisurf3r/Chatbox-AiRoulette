@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Chatbox AI Roulette** is an interactive web-based  chat application that allows users to communicate with various AI language models. It provides a seamless interface for sending messages, receiving AI-generated responses, and even highlighting code snippets in the responses for better readability. The project leverages the OpenRouter API to interact with multiple state-of-the-art AI models, giving users the flexibility to choose their preferred model for each conversation.
+**Chatbox AI Roulette** is an interactive web-based  chat application that allows users to communicate with various AI language models. Easy to integrate in your project, provides a seamless interface for sending messages, receiving AI-generated responses, and even highlighting code snippets in the responses for better readability. The project leverages the OpenRouter API to interact with multiple free AI models, giving users the flexibility to choose their preferred model for each conversation with ZERO api cost.
 
 ---
 
@@ -67,3 +67,8 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/aisurf3r/Chatbox-Roulette.git
+
+   
+Contributions Contributions are welcome! If you find any bugs or have ideas to improve this tool, feel free to open an issue or submit a pull request.
+
+License This project is licensed under the MIT License. See the LICENSE file for more details.
